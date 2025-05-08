@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NatanFinancial.API", "Natan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NatanFinancial.Domain", "NatanFinancial.Domain\NatanFinancial.Domain.csproj", "{DA9DCE47-E7AF-4BD6-A565-91B1F4BB500C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NatanFinancial.Application", "NatanFinancial.Application\NatanFinancial.Application.csproj", "{F8AF7C9E-033F-445F-A4AB-AA15EBD098D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{DA9DCE47-E7AF-4BD6-A565-91B1F4BB500C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA9DCE47-E7AF-4BD6-A565-91B1F4BB500C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA9DCE47-E7AF-4BD6-A565-91B1F4BB500C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8AF7C9E-033F-445F-A4AB-AA15EBD098D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8AF7C9E-033F-445F-A4AB-AA15EBD098D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8AF7C9E-033F-445F-A4AB-AA15EBD098D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8AF7C9E-033F-445F-A4AB-AA15EBD098D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
